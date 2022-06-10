@@ -58,6 +58,9 @@ function Header() {
 
     @media (max-width: 769px) {
       font-size: 2.5vw;
+      width: 15%;
+      padding: 1.5% 0;
+      margin: 0 2%;
     }
   `;
 
